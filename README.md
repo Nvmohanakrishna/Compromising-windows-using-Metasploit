@@ -1,3 +1,4 @@
+
 # Compromising-windows-using-Metasploit
 Compromising windows using Metasploit
 # Metasploit
@@ -23,7 +24,8 @@ Open terminal and try execute some kali linux commands
 
 ## EXECUTION STEPS AND ITS OUTPUT:
 Find the attackers ip address using ifconfig
-
+### NAME:N V MOHANA KRISHNA
+### REG NO:212224100039
 ### OUTPUT:
 
 <img width="576" alt="image" src="https://github.com/user-attachments/assets/c06b56b4-a982-40a1-9e7f-7c044328aa84">
